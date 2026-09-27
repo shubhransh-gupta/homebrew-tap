@@ -1,6 +1,6 @@
 cask "mirrorlock" do
   version "1.1.0"
-  sha256 "06d88efab4c001328c6f4ab6239cd357a56778df77dfd766cf6b4e4ce943ed6e"
+  sha256 "d3eb3595b0406786cc0bcb6fb78c2b2cb0bd75c01d796b9110c7d5aa2bd2915c"
 
   url "https://github.com/shubhransh-gupta/mirrorLock/releases/download/v#{version}/MirrorLock-#{version}.pkg"
   name "MirrorLock"
